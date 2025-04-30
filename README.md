@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shegezzy" alt="shegezzy" /></a> </p>
 
-- 🌱 I’m currently learning **advanced Kubernetes, Terraform, and cloud security best practices!**
+- 🌱 I’m currently learning **Backend Development at ALX Africa**
+- **Already learnt advanced Kubernetes, Terraform, and cloud security best practices!**
 
 - 👨‍💻 All of my projects are available at [https://olusegunakinnola.netlify.app/](https://olusegunakinnola.netlify.app/)
 
