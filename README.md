@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning **Backend Development at ALX Africa**
 - **Already learnt advanced Kubernetes, Terraform, and cloud security best practices!**
 
-- 👨‍💻 All of my projects are available at [https://olusegunakinnola.netlify.app/](https://olusegunakinnola.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://olusegunakinnola.com/)
 
 - 💬 Ask me about **DevOps, Cloud Infrastructure, CI/CD, and Kubernetes!**
 
 - 📫 How to reach me **shegezzy@gmail.com**
 
-- 📄 Know about my experiences [https://olusegunakinnola.netlify.app/assets/pdf/Olusegun%20Akinnola%20Resume.pdf](https://olusegunakinnola.netlify.app/assets/pdf/Olusegun%20Akinnola%20Resume.pdf)
+- 📄 Know about my experiences https://linkedin.com/in/olusegunakinnola
 
 - ⚡ Fun fact **When I'm not immersed in the cloud, you'll find me on the soccer field or cheering on Manchester United.**
 
