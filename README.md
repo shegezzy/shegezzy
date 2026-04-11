@@ -34,24 +34,6 @@ Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AW
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 
-<p style="text-align: left;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://avatars.githubusercontent.com/u/39660743?s=48&v=4" alt="shegezzy" />
-  </a>
-</p>
-
-- 👨‍💻 All of my projects are available at (https://github.com/shegezzy)
-
-- 💬 Ask me about **DevOps, Cloud Infrastructure, CI/CD, and Kubernetes!**
-
-- 📫 How to reach me **shegezzy@gmail.com**
-
-- 📄 Know about my experiences https://linkedin.com/in/olusegunakinnola
-
-- ⚡ Fun fact **When I'm not immersed in the cloud, you'll find me on the soccer field or cheering on Manchester United.**
-
-
-
 ## 📌 Highlighted Projects
 
 1. **[Kustomize Capstone](https://github.com/shegezzy/kustomize-capstone)**
@@ -94,6 +76,16 @@ Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AW
     ![Helm](https://img.shields.io/badge/Helm-0F52BA?style=for-the-badge\&logo=helm\&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white) ![EKS](https://img.shields.io/badge/Amazon_EKS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
     Automated CI/CD deployments to Amazon EKS using Helm and Jenkins pipelines.
 
+
+- 👨‍💻 All of my projects are available at (https://github.com/shegezzy)
+
+- 💬 Ask me about **DevOps, Cloud Infrastructure, CI/CD, and Kubernetes!**
+
+- 📫 How to reach me **shegezzy@gmail.com**
+
+- 📄 Know about my experiences https://linkedin.com/in/olusegunakinnola
+
+- ⚡ Fun fact **When I'm not immersed in the cloud, you'll find me on the soccer field or cheering on Manchester United.**
 
 
 <p <h3 align="left">Connect with me:</h3> </p>
