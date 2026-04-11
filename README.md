@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Olusegun Akinnola (he/him)
 
-🚀 **DevOps Engineer | Cloud Engineer | CI/CD Engineer | Cloud Support Engineer | IT Support Specialist | IT Support Engineer | Open to Remote Opportunities**
+🚀 **DevOps Engineer | Cloud Engineer | CI/CD Engineer | Cloud Support Engineer | Deployment Engineer | IT Support Engineer | Open to Remote Opportunities**
 📍 Lagos, Nigeria
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
-
-I’m passionate about building **scalable infrastructure**, automating deployments, and solving real-world problems using DevOps tools.
-Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AWS services** through hands-on projects.
 
 I’m passionate about building **scalable infrastructure**, automating deployments, and solving real-world problems using DevOps tools.
 Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AWS services** through hands-on projects.
